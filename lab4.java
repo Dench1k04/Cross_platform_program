@@ -1,3 +1,4 @@
+//Виконав Долгов Денис ІКМ-221а, Варіант № 5
 import java.util.ArrayList;
 import java.util.List;
 
