@@ -1,3 +1,4 @@
+//Виконав Долгов Денис ІКМ-221а, Варіант № 5
 public class lab2 {
     public static String reverseEveryOtherWord(String input) {
         // Розділяємо вхідний рядок на слова за пробілами
